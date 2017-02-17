@@ -42,3 +42,6 @@ How is the staging area different from the working directory and the repository?
     It's a middle step to be sure that you want to control the versions of that file. It is different because in the working directory,
     you can find a lot of files that are not important. And in the repository, you will have all the important files and all kind of versions
     I know it is important, because you need a small room to think stuff before making a commitment.
+How can you use the staging area to make sure you have one commit per logical change?
+    When I made a change, the diff between the staging area and the commit will show me all the files and changes; this way I will mark the ones
+    that belong to one logical change to make the commit.
