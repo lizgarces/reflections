@@ -36,12 +36,23 @@ Now that you have your workspace set up, what do you want to try using Git for?
 Lesson 2
 
 What happens when you initialize a repository? Why do you need to do it?
+
     You set the directory to control your files.
     Because every repository needs to initialize to mark the files that you want to control.
+
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+
     It's a middle step to be sure that you want to control the versions of that file. It is different because in the working directory,
     you can find a lot of files that are not important. And in the repository, you will have all the important files and all kind of versions
     I know it is important, because you need a small room to think stuff before making a commitment.
+
 How can you use the staging area to make sure you have one commit per logical change?
+
     When I made a change, the diff between the staging area and the commit will show me all the files and changes; this way I will mark the ones
     that belong to one logical change to make the commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    When different people is working in the same project but different feature.
+
+    Branches will help to keep control of the different files modified.
