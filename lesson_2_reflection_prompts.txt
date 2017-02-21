@@ -61,3 +61,5 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
     We have a solid version with all the right updates.
     We represented with the lines so we can be sure who the parent is and where are right commits.
+What do you think about the Baby Loosy?
+    I just love that cat! She is a princess.
