@@ -56,10 +56,19 @@ What are some situations when branches would be helpful in keeping your history 
     When different people is working in the same project but different feature.
 
     Branches will help to keep control of the different files modified.
+
 How do the diagrams help you visualize the branch structure?
+
     It shows in a simple way the different versions and the changes in the files.
+
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
     We have a solid version with all the right updates.
     We represented with the lines so we can be sure who the parent is and where are right commits.
-What do you think about the Baby Loosy?
-    I just love that cat! She is a princess.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Automatic: Pros: it saves you time because you don't need to check all the lines and files.
+               Cons: If Git can't no solve the merge, you end it with a weir version
+    Manual: Pros: you are sure that all the important updates are in the final file.
+            Cons: tons of time checking the updated files and lines.
